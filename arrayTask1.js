@@ -7,7 +7,7 @@
 
 // ['orange', 'yellow', 'green', 'blue', 'red']
 
-const colors = ['red', 'blue', 'green', 'yellow', 'orange']
+const colors = ["red", "blue", "green", "yellow", "orange"];
 
-const result = colors.reverse()
+const result = colors.reverse();
 console.log(result);
